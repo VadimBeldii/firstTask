@@ -1,0 +1,8 @@
+packages
+.vs/
+*.suo
+*/bin/*
+*/obj/*
+*.txt
+*.json
+*.htm
